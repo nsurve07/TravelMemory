@@ -31,3 +31,5 @@ For frontend, you need to create `.env` file and put the following content (reme
 MONGO_URI=mongodb+srv://nehasurve07:vwcPvwj49tzhYpmD@cluster0.e0kgapt.mongodb.net/travelmemory
 PORT=3001
 ```
+
+
