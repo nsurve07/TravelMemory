@@ -3,7 +3,7 @@
 `.env` file to work with the backend after creating a database in mongodb: 
 
 ```
-MONGO_URI='ENTER_YOUR_URL'
+MONGO_URI='http://3.96.130.133:3001/hello'
 PORT=3001
 ```
 
@@ -28,5 +28,6 @@ Data format to be added:
 
 For frontend, you need to create `.env` file and put the following content (remember to change it based on your requirements):
 ```bash
-REACT_APP_BACKEND_URL=http://localhost:3001
+MONGO_URI=mongodb+srv://nehasurve07:vwcPvwj49tzhYpmD@cluster0.e0kgapt.mongodb.net/travelmemory
+PORT=3001
 ```
